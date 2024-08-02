@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2be0a2a6-05f4-4b07-969c-e536dd172214" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data-cleaning-preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-cleaning-preparation.ipynb" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2jNZD8yIdlEIzAwLMb6C6UV9yRS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;database.data.extractors.current.export.id&quot;: &quot;Comma-separated (CSV)_id&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;model&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ethan/PycharmProjects/fire-guard/model&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ethan\PycharmProjects\fire-guard\model" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ethan\PycharmProjects\fire-guard\model" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.18034.82" />
+        <option value="bundled-python-sdk-975db3bf15a3-2767605e8bc2-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2be0a2a6-05f4-4b07-969c-e536dd172214" name="Changes" comment="" />
+      <created>1721229373893</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1721229373893</updated>
+      <workItem from="1721229375178" duration="15000" />
+      <workItem from="1721229396848" duration="1137000" />
+      <workItem from="1721230558426" duration="1221000" />
+      <workItem from="1721231807860" duration="499000" />
+      <workItem from="1721263481649" duration="709000" />
+      <workItem from="1721264277960" duration="1993000" />
+      <workItem from="1721266342071" duration="181000" />
+      <workItem from="1721266539067" duration="7525000" />
+      <workItem from="1721315839470" duration="1876000" />
+      <workItem from="1721323725308" duration="2280000" />
+      <workItem from="1721326136116" duration="1548000" />
+      <workItem from="1721333710143" duration="4331000" />
+      <workItem from="1721338204372" duration="1674000" />
+      <workItem from="1721339936095" duration="1027000" />
+      <workItem from="1721398487747" duration="150000" />
+      <workItem from="1721398877779" duration="19000" />
+      <workItem from="1721398904736" duration="116000" />
+      <workItem from="1721399053396" duration="356000" />
+      <workItem from="1721399424782" duration="1530000" />
+      <workItem from="1721401038541" duration="294000" />
+      <workItem from="1721401378549" duration="572000" />
+      <workItem from="1721402520111" duration="1216000" />
+      <workItem from="1721484322064" duration="493000" />
+      <workItem from="1721484831784" duration="343000" />
+      <workItem from="1721485524921" duration="1689000" />
+      <workItem from="1721487758558" duration="1943000" />
+      <workItem from="1721492372326" duration="2877000" />
+      <workItem from="1721569915496" duration="2508000" />
+      <workItem from="1721572546404" duration="663000" />
+      <workItem from="1721573288689" duration="607000" />
+      <workItem from="1721573967314" duration="448000" />
+      <workItem from="1721574490717" duration="651000" />
+      <workItem from="1721575163540" duration="1311000" />
+      <workItem from="1721577742842" duration="1467000" />
+      <workItem from="1721618796151" duration="6000000" />
+      <workItem from="1721624886881" duration="142000" />
+      <workItem from="1721658911318" duration="4361000" />
+      <workItem from="1721673737517" duration="726000" />
+      <workItem from="1721674681938" duration="1563000" />
+      <workItem from="1721740522973" duration="770000" />
+      <workItem from="1721742185423" duration="1266000" />
+      <workItem from="1721743711082" duration="902000" />
+      <workItem from="1721744851824" duration="685000" />
+      <workItem from="1721746364528" duration="610000" />
+      <workItem from="1721747980395" duration="928000" />
+      <workItem from="1721748930002" duration="2336000" />
+      <workItem from="1721754116431" duration="39000" />
+      <workItem from="1721754164324" duration="1194000" />
+      <workItem from="1721758498041" duration="598000" />
+      <workItem from="1721759975507" duration="2331000" />
+      <workItem from="1721777552876" duration="601000" />
+      <workItem from="1721780890319" duration="2375000" />
+      <workItem from="1721783410697" duration="34000" />
+      <workItem from="1721783450379" duration="540000" />
+      <workItem from="1721784007347" duration="489000" />
+      <workItem from="1721784512596" duration="134000" />
+      <workItem from="1721787509756" duration="8204000" />
+      <workItem from="1721832140826" duration="2248000" />
+      <workItem from="1721834446839" duration="235000" />
+      <workItem from="1721843806732" duration="7130000" />
+      <workItem from="1721870971631" duration="6001000" />
+      <workItem from="1721878183959" duration="4749000" />
+      <workItem from="1721915532522" duration="7122000" />
+      <workItem from="1721929459130" duration="1084000" />
+      <workItem from="1721930572781" duration="1430000" />
+      <workItem from="1721940524116" duration="5984000" />
+      <workItem from="1722005215851" duration="4327000" />
+      <workItem from="1722015469433" duration="5683000" />
+      <workItem from="1722041798357" duration="166000" />
+      <workItem from="1722092374158" duration="3597000" />
+      <workItem from="1722097230622" duration="2718000" />
+      <workItem from="1722118310332" duration="111000" />
+      <workItem from="1722128442079" duration="7577000" />
+      <workItem from="1722351525190" duration="2064000" />
+      <workItem from="1722366317061" duration="10175000" />
+      <workItem from="1722377760208" duration="595000" />
+      <workItem from="1722441089047" duration="165000" />
+      <workItem from="1722447499388" duration="7341000" />
+      <workItem from="1722455590714" duration="130000" />
+      <workItem from="1722455729094" duration="1676000" />
+      <workItem from="1722457700123" duration="382000" />
+      <workItem from="1722475948695" duration="1232000" />
+      <workItem from="1722535440744" duration="6488000" />
+      <workItem from="1722612305309" duration="1904000" />
+      <workItem from="1722624920801" duration="6263000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
