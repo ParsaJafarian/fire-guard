@@ -5,7 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2be0a2a6-05f4-4b07-969c-e536dd172214" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clean-weather-2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/clean-weather-2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data-cleaning-preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-cleaning-preparation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/model2.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model2.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -155,7 +159,9 @@
       <workItem from="1722475948695" duration="1232000" />
       <workItem from="1722535440744" duration="6488000" />
       <workItem from="1722612305309" duration="1904000" />
-      <workItem from="1722624920801" duration="6263000" />
+      <workItem from="1722624920801" duration="6784000" />
+      <workItem from="1722631868583" duration="1657000" />
+      <workItem from="1722693378538" duration="5393000" />
     </task>
     <servers />
   </component>
